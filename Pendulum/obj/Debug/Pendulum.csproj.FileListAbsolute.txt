@@ -1,0 +1,48 @@
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.AssemblyReference.cache
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.MainForm.resources
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.cache
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+D:\SerBor\С++ and C#\Моделирование системы\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+C:\Users\544\Desktop\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.MainForm.resources
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+C:\Users\544\Desktop\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.Cache
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.AssemblyReference.cache
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.MainForm.resources
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.cache
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+D:\SerBor\С++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.MainForm.resources
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+C:\Users\544\Desktop\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.Cache
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.AssemblyReference.cache
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.MainForm.resources
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.cache
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+D:\SerBor\C++ and C#\Моделирование системы\Задание 1 - Маятник\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
